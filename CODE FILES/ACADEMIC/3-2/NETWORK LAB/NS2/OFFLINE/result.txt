@@ -1,0 +1,40 @@
+Sent Packets:  101340
+Dropped Packets:  96510
+Received Packets:  4758
+-------------------------------------------------------------
+Throughput:  361608 bits/sec
+Average Delay:  1.887 seconds
+Delivery ratio:  0.0469509
+Drop ratio:  0.952339
+Sent Packets:  101340
+Dropped Packets:  96533
+Received Packets:  4619
+-------------------------------------------------------------
+Throughput:  351044 bits/sec
+Average Delay:  1.41638 seconds
+Delivery ratio:  0.0455792
+Drop ratio:  0.952566
+Sent Packets:  101340
+Dropped Packets:  97788
+Received Packets:  3277
+-------------------------------------------------------------
+Throughput:  249052 bits/sec
+Average Delay:  3.25495 seconds
+Delivery ratio:  0.0323367
+Drop ratio:  0.96495
+Sent Packets:  101340
+Dropped Packets:  97163
+Received Packets:  3946
+-------------------------------------------------------------
+Throughput:  299896 bits/sec
+Average Delay:  3.07713 seconds
+Delivery ratio:  0.0389382
+Drop ratio:  0.958782
+Sent Packets:  101340
+Dropped Packets:  97454
+Received Packets:  3640
+-------------------------------------------------------------
+Throughput:  276645 bits/sec
+Average Delay:  2.97351 seconds
+Delivery ratio:  0.0359187
+Drop ratio:  0.961654
